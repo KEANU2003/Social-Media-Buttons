@@ -1,0 +1,23 @@
+============ CARD ============
+.card__name
+Kian Mahmoudi
+
+.card__profession
+Front-end Developer
+
+============ CARD INFO ============
+.button__content span
+SHARE
+
+.button__social a
+https://github.com/
+https://www.linkedin.com/
+https://www.facebook.com/
+https://www.instagram.com/
+https://www.youtube.com/
+https://www.telegram.org/
+https://www.mastodon.social/
+https://www.bsky.app/
+https://www.mail.google.com
+https://www.twitter.com/
+
