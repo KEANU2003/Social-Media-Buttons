@@ -30,12 +30,12 @@
 
 این پروژه با استفاده از تکنولوژی‌های زیر توسعه داده شده:
 
-- **HTML5** – برای ساختار صفحه
-- **CSS3** – برای استایل‌دهی و انیمیشن‌ها
-- **Google Fonts (Montserrat)** – برای فونت مدرن و حرفه‌ای
-- **Remix Icon CDN** – برای نمایش آیکون‌های شبکه‌های اجتماعی
-- **CSS Variables** – برای مدیریت راحت‌تر رنگ‌ها و فونت‌ها
-- **CSS Transitions & Transformations** – برای ایجاد انیمیشن‌های نرم و جذاب
+- **HTML5**
+- **CSS3**
+- **Google Fonts (Montserrat)**
+- **Remix Icon CDN**
+- **CSS Variables** 
+- **CSS Transitions & Transformations**
 
 
 ---
