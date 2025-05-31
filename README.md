@@ -12,15 +12,14 @@
 - طراحی کارت با اطلاعات توسعه‌دهنده
 - دکمه اشتراک‌گذاری با افکت انیمیشنی زیبا
 - پشتیبانی از شبکه‌های اجتماعی:
-- 
--Telegram -
+  
+- Telegram
 - GitHub
 - LinkedIn
 - Bluesky
 - YouTube
 - Instagram
 - Gmail
-  -
 - افکت Hover با ظاهر شدن تدریجی آیکون‌ها
 - طراحی ریسپانسیو
 - استفاده از RemixIcon و فونت Google (Montserrat)
