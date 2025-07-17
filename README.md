@@ -72,7 +72,7 @@ git clone https://github.com/your-username/social-media-button.git
 
 ---
 ## ⚖️ لایسنس
-[MIT License](LICENSE)
+[MIT License](https://github.com/KEANU2003/Social-Media-Buttons/blob/7e067867f6ea6e2e4ad593c62ac33cd3b5f7e80b/LICENSE)
 
 
 ---
